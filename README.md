@@ -4,7 +4,7 @@ A simple web scraping tool built with Go. This program extracts headings and lin
 ⚠️ Important: This tool is intended for personal and legal use only. Please ensure you comply with the website's terms of service and applicable laws before scraping any data.
 
 
-Features
+Features :
 
 Extracts headings (h1, h2, h3, etc.) and links (<a> tags) from a given website.
 Saves scraped data to:
